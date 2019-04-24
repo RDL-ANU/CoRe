@@ -1,0 +1,10 @@
+# ...
+ # (compute PREFIX relative to file location)
+ # ...
+set(CoRe_VERSION x.y.z)
+
+include("${CMAKE_CURRENT_LIST_DIR}/CoReTargets.cmake")
+
+set(CoRe_INCLUDE_DIRS @CMAKE_INSTALL_PREFIX@/@CMAKE_INSTALL_INCLUDEDIR@)
+set(CoRe_LIBRARIES CoRe)
+set(CoRe_LIBRARY_DIRS @CoRe_LIBRARY_DIRS@)
