@@ -1,13 +1,13 @@
-CoRe (CoRe)
+RoKi (RoKi)
 ==========================================================================
 
-# CoRe
-Add a brief description of CoRe
+# RoKi
+Add a brief description of RoKi
 
 ## Dependencies
 List third-party dependencies
 
-## Installing CoRe
+## Installing RoKi
 Add installation instructions
 
 ## Documentation
