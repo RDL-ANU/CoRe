@@ -1,0 +1,4 @@
+#ifndef _CoRe_DATASTRUCTURES_HPP_
+#define _CoRe_DATASTRUCTURES_HPP_
+
+#endif
